@@ -1,23 +1,22 @@
-## Wyatt Smith
+Wyatt Smith
+SP 2021
 
-### SP 2021
+DSBA student at Florida Polytechnic University currently enrolled in:
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+    Course 1
 
-- Intro to Datascience
+    Course 2
 
-- Statistical Learning
+    Course 3
 
-- Capstone II
+    Course 4
 
-- Health Systems Management and Optimization
+Hobbies:
 
-**Hobbies:**
+I am passionate about:
 
-I am _passionate about_: 
+    Thing 1
 
-- Thing 1
+    Thing 2
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+    Thing 3 as shown in this website https://www.floridapoly.edu
