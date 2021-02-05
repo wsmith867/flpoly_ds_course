@@ -3,7 +3,7 @@ SP 2021
 
 DSBA student at Florida Polytechnic University currently enrolled in:
 
-<<<<<<< HEAD
+
 | Prefix             | Number                 | Name                                        | Credits |
 | :------------------| :----------------------| :-------------------------------------------| :-------|
 | **COP**            | **2073**               | _Intro to Data Science_                     | 3       |
